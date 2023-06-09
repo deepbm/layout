@@ -17,6 +17,10 @@ button {
   padding: 86px 0 64px;
 }
 
+.section--dark {
+  background: #f1f4fa;
+}
+
 .container {
   margin: 0 auto;
   width: 720px;
@@ -94,11 +98,6 @@ button {
   font-size: 14px;
   font-weight: 400;
   line-height: 2;
-}
-
-/* chainify */
-.chainify {
-  background: #f1f4fa;
 }
 
 /* careers */
